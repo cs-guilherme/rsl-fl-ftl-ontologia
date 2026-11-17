@@ -1,0 +1,17 @@
+﻿Código,Tipo,Descrição
+IN1,Inclusão,Publicado entre 2021 e 2026
+IN2,Inclusão,Inglês ou português
+IN3,Inclusão,"Artigo de periódico, de conferência com revisão por pares, ou revisão"
+IN4,Inclusão,"Trata do tema de pelo menos um eixo, com contribuição metodológica ou empírica aproveitável"
+IN5,Inclusão,Texto completo acessível
+EX1,Exclusão,"Os termos aparecem só de forma lateral (citados, mas não estudados)"
+EX2,Exclusão,"Aplicação em domínio distante (saúde, indústria, ciências naturais) sem contribuição metodológica transferível"
+EX3,Exclusão,"Resumo estendido, editorial, pôster, capítulo sem revisão por pares, tese ou dissertação"
+EX4,Exclusão,Duplicata ou versão anterior de outro trabalho incluído
+EX5,Exclusão,Preprint sem revisão por pares
+Eixos,,
+E1,,Ontologia em FL e FTL
+E2,,FTL entre domínios
+E3,,Robustez de FL a variações nos dados
+E4,,Perturbações controladas em dados tabulares
+E5,,Ontologia de ITSM (complementar)
